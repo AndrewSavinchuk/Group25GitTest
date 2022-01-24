@@ -1,6 +1,6 @@
 package andy;
 
-public class LoginTestCase {
+public class TestCase006 {
 
     // comment 1
 
