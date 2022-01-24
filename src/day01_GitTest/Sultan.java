@@ -4,6 +4,7 @@ public class Sultan {
     public static void main(String[] args) {
 
         //testcase001
+        //testcase002
     }
 
 
